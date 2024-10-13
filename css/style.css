@@ -10198,7 +10198,7 @@ h5,
     float: right;
 }
 #accordion .card .card-header a span i {
-    color: #08c299;
+    color: #5f4b8bff;
 }
 
 #accordion .card-body {
@@ -10342,7 +10342,7 @@ h5,
     }
 }
 .destination .text .bottom-area span:last-child a {
-    background: #08c299;
+    background: #5f4b8bff;
     color: #fff;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
@@ -10351,7 +10351,7 @@ h5,
     padding: 3px 5px;
 }
 .destination .text .bottom-area span:last-child a:hover {
-    background: #08c299;
+    background: #5f4b8bff;
     color: #fff;
 }
 
@@ -11011,7 +11011,7 @@ textarea.form-control {
 
 .testimony-section {
     position: relative;
-    background: #08c299;
+    background: #5f4b8bff;
 }
 .testimony-section .owl-carousel {
     margin: 0;
@@ -11103,7 +11103,7 @@ textarea.form-control {
     border-radius: 50%;
     position: relative;
     margin-top: -75px;
-    border: 6px solid #08c299;
+    border: 6px solid #5f4b8bff;
 }
 .testimony-wrap .user-img .quote {
     position: absolute;
@@ -11263,7 +11263,7 @@ textarea.form-control {
     color: #fff;
     padding: 2px 8px;
     display: inline-block;
-    background: #08c299;
+    background: #5f4b8bff;
     position: absolute;
     top: -45px;
     left: 0;
@@ -11506,18 +11506,18 @@ textarea.form-control {
 }
 .block-27 ul li a,
 .block-27 ul li span {
-    color: #08c299;
+    color: #5f4b8bff;
     text-align: center;
     display: inline-block;
     width: 40px;
     height: 40px;
     line-height: 40px;
     border-radius: 50%;
-    border: 1px solid #08c299;
+    border: 1px solid #5f4b8bff;
 }
 .block-27 ul li.active a,
 .block-27 ul li.active span {
-    background: #08c299;
+    background: #5f4b8bff;
     color: #fff;
     border: 1px solid transparent;
 }
@@ -12130,7 +12130,7 @@ textarea.form-control {
 .categories li a,
 .sidelink li a {
     display: block;
-    color: #08c299;
+    color: #5f4b8bff;
 }
 .categories li a span,
 .sidelink li a span {
